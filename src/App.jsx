@@ -9,7 +9,7 @@ function App() {
     <>
       <div className="overflow-hidden relative">
         <Header />
-        {/* <SideContact /> */}
+        <SideContact />
         <Outlet />
         <Footer />
       </div>
