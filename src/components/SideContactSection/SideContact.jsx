@@ -5,7 +5,7 @@ import { FaWhatsapp } from "react-icons/fa";
 
 const SideContact = () => {
   return (
-    <div className="sm:flex flex-col gap-2 text-white fixed right-0 z-40 hidden">
+    <div className="sm:flex flex-col gap-2 text-white fixed right-0 top-60 z-40 hidden">
       <div className="flex items-center bg-[#104EB4] rounded-l-full py-2 transition-transform duration-500 ease-in translate-x-32  hover:translate-x-1">
         <div className="flex items-center gap-3 max-w-min px-3">
           <span className="bg-white rounded-full text-black p-2">
